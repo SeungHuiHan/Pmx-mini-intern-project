@@ -15,7 +15,7 @@ VUE3 콤포넌트 개발 프로젝트
 - 프레임워크: vue3
 - 사용 api: web drag and drop
 
-### 진행상황
+## 진행상황
 ![vue3 시현영상](https://github.com/SeungHuiHan/Pmx-mini-intern-project/assets/98226400/107b8d92-ec7a-4606-a216-00511154240d)
 
 
