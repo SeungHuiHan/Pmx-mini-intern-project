@@ -31,7 +31,7 @@ VUE3 콤포넌트 개발 프로젝트
           생략
         />
 ```
-imageUrl:  특정 이미지의 URL 을 저장하는 역할
+- imageUrl:  특정 이미지의 URL 을 저장하는 역할
 
 
 ## SVG ELLIPSE
@@ -49,7 +49,7 @@ imageUrl:  특정 이미지의 URL 을 저장하는 역할
               v-bind:key="ellipse"
             />
 ```
-ellpise 구현
+- ellpise 구현
 
 
 ## 이미지 줌인/줌아웃/패닝
