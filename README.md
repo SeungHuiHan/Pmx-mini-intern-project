@@ -19,7 +19,7 @@ VUE3 콤포넌트 개발 프로젝트
 ![vue3 시현영상](https://github.com/SeungHuiHan/Pmx-mini-intern-project/assets/98226400/107b8d92-ec7a-4606-a216-00511154240d)
 
 
-## 이미지 로딩
+### 이미지 로딩
 ![image](https://github.com/SeungHuiHan/Pmx-mini-intern-project/assets/98226400/73f8fe4c-818e-47ac-b562-f39e8a3b6774)
 ```
 <img
@@ -34,7 +34,7 @@ VUE3 콤포넌트 개발 프로젝트
 - imageUrl:  특정 이미지의 URL 을 저장하는 역할
 
 
-## SVG ELLIPSE
+### SVG ELLIPSE
 ![image](https://github.com/SeungHuiHan/Pmx-mini-intern-project/assets/98226400/7262383f-9d7e-495e-8537-b192e198ff01)
 
 ```
@@ -52,7 +52,7 @@ VUE3 콤포넌트 개발 프로젝트
 - ellpise 구현
 
 
-## 이미지 줌인/줌아웃/패닝
+### 이미지 줌인/줌아웃/패닝
 ![image](https://github.com/SeungHuiHan/Pmx-mini-intern-project/assets/98226400/e5a1c824-7690-4ef0-9bfb-087b85676c18)
 ![image](https://github.com/SeungHuiHan/Pmx-mini-intern-project/assets/98226400/91b37465-29b2-4f0c-a7ba-58e4cc73a275)
 ```
@@ -70,7 +70,7 @@ VUE3 콤포넌트 개발 프로젝트
 - 화면 상단 zoomin,zoomout버튼으로 이미지 확대,축소 가능
 
 
-## ELLIPSE 크기변경 회전기능
+### ELLIPSE 크기변경 회전기능
 - 구현중..
 
 ## Project setup
