@@ -5,15 +5,15 @@ VUE3 콤포넌트 개발 프로젝트
 피맥스에서 세계 최초로 의료용 분석용 인공지능앱을 병원에서 획기적인 개선을 할 수 있도록 서비스를 제공하고 있다. 이 과정에서 라벨링한 진단 부위 영역에 VUE3 타원형 컴포넌트로 영역을 표시하는 프로젝트를 진행하고자 한다.
 
 ###구현해야 할것
--특정 사이즈의 이미지를 로딩
--이미지위에 SVG ELLIPSE를 구현
--배경 이미지 줌인/줌아웃/패닝 기능
--ELLIPSE 크기 변경 회전 기능
+- 특정 사이즈의 이미지를 로딩
+- 이미지위에 SVG ELLIPSE를 구현
+- 배경 이미지 줌인/줌아웃/패닝 기능
+- ELLIPSE 크기 변경 회전 기능
 
 ###구현 스택
--언어: javascript
--프레임워크: vue3
--사용 api: web drag and drop
+- 언어: javascript
+- 프레임워크: vue3
+- 사용 api: web drag and drop
 
 ###진행상황
 ![vue3 시현영상](https://github.com/SeungHuiHan/Pmx-mini-intern-project/assets/98226400/107b8d92-ec7a-4606-a216-00511154240d)
@@ -66,12 +66,12 @@ ellpise 구현
           ref="image"
         />
 ```
--마우스로 이미지 확대,축소,패닝 가능
--화면 상단 zoomin,zoomout버튼으로 이미지 확대,축소 가능
+- 마우스로 이미지 확대,축소,패닝 가능
+- 화면 상단 zoomin,zoomout버튼으로 이미지 확대,축소 가능
 
 
 ##ELLIPSE 크기변경 회전기능
--구현중..
+- 구현중..
 
 ## Project setup
 ```
